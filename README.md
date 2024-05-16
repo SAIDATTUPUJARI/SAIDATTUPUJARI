@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure and algorithms**
+- 🌱 I’m currently learning **WEB DEVELOPMENT, ML**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **web development, ML**
 
 - 📫 How to reach me **pujarisaidattu6@gmail.com**
 
